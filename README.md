@@ -1,4 +1,4 @@
-# 👋 Fadjhar / Skinburn
+# 👋 Ling Ling
 
 **AI Engineer | Trading Systems Builder | Learning by Building**
 
