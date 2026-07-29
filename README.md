@@ -45,14 +45,6 @@ I'm obsessed with **AI agents**, **trading systems**, and **automation**. Curren
 
 ---
 
-## 📊 GitHub Stats
-
-[![Skinburn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skinburn&show_icons=true&theme=dark&hide_border=true)](https://github.com/Skinburn)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skinburn&theme=dark&hide_border=true&layout=compact)](https://github.com/Skinburn)
-
----
-
 ## 🎯 Currently Learning
 
 - Scaling AI agents for production
