@@ -6,8 +6,8 @@ I’m **Fadjhar Djhanuar**, a multidisciplinary builder from Indonesia. I turn r
 
 My background spans **mechatronics, manufacturing operations, photography, visual design, and AI-assisted product development**. That mix shapes how I build: understand the system, simplify the flow, then make it tangible.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jayscreative.my.id-EEB465?style=for-the-badge&logo=safari&logoColor=101820)]
-[![Email](https://img.shields.io/badge/Email-benbun8%40gmail.com-243442?style=for-the-badge&logo=gmail&logoColor=white) }
+[![Portfolio](https://img.shields.io/badge/Portfolio-jayscreative.my.id-EEB465?style=for-the-badge&logo=safari&logoColor=101820)](https://jayscreative.my.id)
+[![Email](https://img.shields.io/badge/Email-benbun8%40gmail.com-243442?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benbun8@gmail.com)
 
 ---
 
